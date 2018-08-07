@@ -120,7 +120,8 @@ var user2 = {
   Make that change without modifying the original object code above.
 */
 
-user2.name = "Tyler S McGinnis";
+user2.name = "Tyler S. McGinnis";
+user2.email = "tyler.mcginnis@devmounta.in";
 
 //Code Here
 
